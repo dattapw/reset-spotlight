@@ -1,4 +1,4 @@
-# reset_spotlight
+# reset-spotlight
 
 A Go program to fully reset the macOS Spotlight index when search stops working correctly — apps not appearing, stale results, or Spotlight behaving unexpectedly.
 
